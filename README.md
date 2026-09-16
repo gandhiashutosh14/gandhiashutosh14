@@ -6,7 +6,7 @@ I build AI systems that connect **enterprise data, tools, and business workflows
 
 My recent work is centered on enterprise agentic analytics: LangGraph orchestration, capability-based routing, schema-grounded NL2SQL, retrieval, model evaluation, human-in-the-loop controls, and AWS/Azure delivery. Earlier work spans computer vision, speech, NLP, and serverless ML systems.
 
-**5+ years in applied AI / Python engineering** · New Delhi, India  
+**~6 years in applied AI / Python engineering** · New Delhi, India  
 [LinkedIn](https://www.linkedin.com/in/ashutosh-gandhi-cloud/) · [Email](mailto:gandhiashutosh14@gmail.com)
 
 ---
