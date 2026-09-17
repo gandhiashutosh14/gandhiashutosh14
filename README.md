@@ -9,6 +9,11 @@ My recent work is centered on enterprise agentic analytics: LangGraph orchestrat
 **~6 years in applied AI / Python engineering** · New Delhi, India  
 [LinkedIn](https://www.linkedin.com/in/ashutosh-gandhi-cloud/) · [Email](mailto:gandhiashutosh14@gmail.com)
 
+> **In plain English:** I help organisations put AI to work on their own data and systems, safely.
+> Most of my projects answer one question: *what has to be true before an AI system is allowed to
+> act on real business data?* In practice that means clear limits on what an AI agent may do,
+> evidence that it behaves correctly when things go wrong, and a record a person can check.
+
 ---
 
 ## Selected projects
@@ -29,6 +34,27 @@ My recent work is centered on enterprise agentic analytics: LangGraph orchestrat
 | **[MORD House Image Similarity](https://github.com/gandhiashutosh14/MORD_House_image_similarity_sample)** | Earlier applied-computer-vision work: image-similarity screening of field-survey photographs for a government housing-scheme fraud-detection workflow. | Python · computer vision |
 
 > **Portfolio principle:** reported results are tied to reproducible commands or committed reports, and synthetic / mocked experiments are labeled as such inside the relevant repository.
+
+### The problem each project solves, in plain English
+
+| Project | The business problem, in one sentence | Who typically has this problem |
+|---|---|---|
+| [Governed Agent Orchestrator](https://github.com/gandhiashutosh14/governed-agent-orchestrator) | An AI agent that can use tools might send the wrong report, run too many actions or do something irreversible without sign-off; this project shows how to set hard limits and keep a checkable record. | Any team giving AI agents access to internal data and systems |
+| [ASTERION](https://github.com/gandhiashutosh14/asterion-rehearsal) | Before an AI agent goes live for a customer, both sides need proof that it copes with outages, stale data and duplicate events, and a sign-off tied to exactly that proof. | Enterprise software vendors and customer-facing engineering teams |
+| [SENTINEL](https://github.com/gandhiashutosh14/sentinel-verify) | Security and compliance teams have far more findings than they can re-check; this decides which check is worth the limited budget next. | Security operations and field-verification teams |
+| [Retention Uplift](https://github.com/gandhiashutosh14/retention-uplift) | A small retention budget is wasted on customers who would stay anyway or leave anyway; this targets the customers an offer can actually change. | Telecom, subscription and banking retention teams |
+| [REGIMEFORGE](https://github.com/gandhiashutosh14/regimeforge) | When a rule or policy changes, which past automated decisions would now come out differently, and which need more evidence? | Lenders, insurers, claims processors and compliance teams |
+| [NL2SQL Agent](https://github.com/gandhiashutosh14/nl2sql-agent) | Business users want to ask data questions in plain words without letting an AI run unsafe, expensive or wrong database queries. | Analytics and business-intelligence teams |
+| [NOESIS](https://github.com/gandhiashutosh14/noesis) | Teams that change an AI agent need to know whether it really got better, and whether the automated judges scoring it can be trusted. | AI platform and evaluation teams |
+| [SCHEMAMORPH bench](https://github.com/gandhiashutosh14/schemamorph-bench) | Data pipelines keep "working" after a partner renames or swaps a column, yet deliver wrong numbers; this benchmark measures that failure. | Data engineering and integration teams |
+| [ShopNova Agent](https://github.com/gandhiashutosh14/shopnova-agent) | A support assistant that can look up orders and issue refunds must never approve money movements on its own. | E-commerce and customer-support teams |
+| [Contract Clause Extraction](https://github.com/gandhiashutosh14/contract-clause-extraction) | Finding specific obligations, such as audit rights, across contracts is slow by hand; AI extraction has to point back to the exact paragraph. | Legal, procurement and compliance teams |
+| [Customer Service RAG](https://github.com/gandhiashutosh14/customer-service-rag-chatbot) | A support chatbot must answer from the company's own documents and record complaints correctly, without inventing policies. | Customer-support teams |
+| [MORD House Image Similarity](https://github.com/gandhiashutosh14/MORD_House_image_similarity_sample) | Programmes that pay out on photo evidence can be gamed with duplicate or reused photos; this screens for look-alike images at scale. | Public programmes and insurers that rely on photo evidence |
+
+**How to read each repository:** every project README opens with the problem in plain English, an executive summary and an end-to-end diagram, then the technical detail, and closes with a SWOT analysis, industry use cases, a glossary and annotated further reading.
+
+**Industries this work applies to:** financial services and insurance, telecom and subscription businesses, e-commerce and retail, healthcare administration, the public sector, security operations, and any company building data platforms or AI products for enterprise customers.
 
 ---
 
