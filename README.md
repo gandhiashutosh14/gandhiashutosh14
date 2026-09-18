@@ -73,3 +73,5 @@ My recent work is centered on enterprise agentic analytics: LangGraph orchestrat
 I am exploring the systems problems that appear **after agents become useful enough to act**: bounded authority, decision replay after rules change, evaluation reliability, integration/schema drift, and deployment evidence.
 
 The goal is not to collect chatbot demos; it is to build **small, inspectable systems with explicit failure boundaries, measurable behavior, and reproducible evidence**.
+
+**Put simply:** once AI agents can take real actions, the hard questions stop being "can the model answer?" and become "who allowed this action, how do we know it worked, and what happens when the rules or the data change?" Each project above takes one of those questions and answers it with working, tested code and an honest statement of its limits.
